@@ -1,6 +1,4 @@
 # Author: Persell Machuca
-# Blog: https://www.virtjunkie.com/vmware-provisioning-using-hashicorp-terraform-part-2/
-# GitHub: https://github.com/jonhowe/Terraform-vSphere-VirtualMachine/blob/master/main.tf
 # Vcenter connection parameters
 provider "vsphere" {
   user                 = var.vsphere_user
